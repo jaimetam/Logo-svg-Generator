@@ -1,4 +1,4 @@
-# svg logo generator 
+# logo svg generator 
 
   
 
@@ -17,6 +17,8 @@ use the package json to check for the denpendencis, after down load type node in
 ## Usage
 answer questions on the terminal to change add letters change the letter color and a shape as a backround and change the color of the shape 
 
+## Link video 
+https://youtu.be/88TlFZrZKkg
 
 
 
